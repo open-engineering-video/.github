@@ -1,6 +1,8 @@
-Open Engineering Video
+# Open Engineering Video
 
 Open Engineering Video is the implementation repository of the definitions from Open Engineering Videos.
+
+![Open Engineering Video hero-banner.png](../assets/hero-banner.png)
 
 Open Engineering Video provides the software, tooling, pipelines, and runtime components required to create, process, compose, render, and publish engineering videos from their definitions.
 
